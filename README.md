@@ -1,3 +1,3 @@
 Benvenuti nel mio Portafolio. 
-Qui sono presenti tutti i miei progetti di analisi dati, tramite Python con libreria Pandas, Numpy.
-Sono presenti anche progetti in SQL e Tableau.
+Qui sono presenti tutti i miei progetti di analisi dati:
+Python (con libreria Pandas e Numpy), SQL e Tableau.
